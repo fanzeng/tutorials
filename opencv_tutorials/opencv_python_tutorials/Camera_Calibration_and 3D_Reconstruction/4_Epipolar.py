@@ -2,11 +2,11 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
-# img1 = cv2.imread('../../samples/left.jpg', 0) # queryimage # left image
-# img2 = cv2.imread('../../samples/right.jpg', 0) # queryimage  # right image
+img1 = cv2.imread('../../samples/left.jpg', 0) # queryimage # left image
+img2 = cv2.imread('../../samples/right.jpg', 0) # queryimage  # right image
 
-img1 = cv2.imread('./left.jpg', 0) # queryimage # left image
-img2 = cv2.imread('./right.jpg', 0) # queryimage  # right image
+# img1 = cv2.imread('./left.jpg', 0) # queryimage # left image
+# img2 = cv2.imread('./right.jpg', 0) # queryimage  # right image
 
 sift = cv2.xfeatures2d.SIFT_create()
 
@@ -16,8 +16,8 @@ kp2, des2 = sift.detectAndCompute(img2, None)
 
 # FLANN parameters
 FLANN_INDEX_KDTREE = 1
-index_params = dict(algorithm = FLANN_INDEX_KDTREE, trees = 5)
-search_params = dict(checks = 50)
+index_params = dict(algorithm = FLANN_INDEX_KDTREE, trees = 2)
+search_params = dict(checks = 100)
 
 flann = cv2.FlannBasedMatcher(index_params, search_params)
 
@@ -36,7 +36,7 @@ for i, (m, n) in enumerate(matches):
         pts1.append(kp1[m.queryIdx].pt)
         goodmatches.append(matches[i])
 
-imgmatch = cv2.drawMatchesKnn(img1, kp1, img2, kp2, goodmatches[:10], None)
+imgmatch = cv2.drawMatchesKnn(img1, kp1, img2, kp2, goodmatches[:], None)
 plt.imshow(imgmatch)
 
 pts1 = np.int32(pts1)
