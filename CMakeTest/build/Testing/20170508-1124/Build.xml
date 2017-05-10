@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20170508-1124-Experimental"
+	Name="fzeng-OptiPlex-9010"
+	Generator="ctest-2.8.12.2"
+	CompilerName="/usr/bin/c++"
+	OSName="Linux"
+	Hostname="fzeng-OptiPlex-9010"
+	OSRelease="4.4.0-75-generic"
+	OSVersion="#96~14.04.1-Ubuntu SMP Thu Apr 20 11:06:30 UTC 2017"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="58"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="16002"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2162.62"
+>
+<Build>
+	<StartDateTime>May 08 19:24 HKT</StartDateTime>
+	<StartBuildTime>1494242697</StartBuildTime>
+<BuildCommand>/usr/bin/make -i</BuildCommand>
+	<Log Encoding="base64" Compression="/bin/gzip">
+	</Log>
+	<EndDateTime>May 08 19:24 HKT</EndDateTime>
+	<EndBuildTime>1494242697</EndBuildTime>
+<ElapsedMinutes>0</ElapsedMinutes></Build>
+</Site>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20170508-1124-Experimental"
+	Name="fzeng-OptiPlex-9010"
+	Generator="ctest-2.8.12.2"
+	CompilerName="/usr/bin/c++"
+	OSName="Linux"
+	Hostname="fzeng-OptiPlex-9010"
+	OSRelease="4.4.0-75-generic"
+	OSVersion="#96~14.04.1-Ubuntu SMP Thu Apr 20 11:06:30 UTC 2017"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="58"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="16002"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="1698.88"
+>
+<Configure>
+	<StartDateTime>May 08 19:24 HKT</StartDateTime>
+	<StartConfigureTime>1494242697</StartConfigureTime>
+1<ConfigureCommand>"/usr/bin/cmake" "./src"</ConfigureCommand>
+<Log>CMake Error: The source directory &quot;/home/fzeng/CMakeTest/build/src&quot; does not appear to contain CMakeLists.txt.
+Specify --help for usage, or press the help button on the CMake GUI.
+</Log>
+	<ConfigureStatus>1</ConfigureStatus>
+	<EndDateTime>May 08 19:24 HKT</EndDateTime>
+	<EndConfigureTime>1494242697</EndConfigureTime>
+<ElapsedMinutes>0</ElapsedMinutes></Configure>
+</Site>

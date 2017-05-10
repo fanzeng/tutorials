@@ -1,0 +1,10 @@
+TutorialRuns 5 0.000186634
+TutorialHalf25 5 0.000170994
+TutorialComp25 0 0
+TutorialUsage 5 0.000217199
+TutorialComp$(arg) 0 0
+TutorialComp4 2 0.000403047
+TutorialComp9 0 0
+---
+TutorialComp25
+TutorialComp9
