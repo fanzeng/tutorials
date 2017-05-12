@@ -14,7 +14,10 @@
         </df>
       </df>
       <df name="The_Core_Functionality">
-        <df name="MatTheBasicImageContainer">
+        <df name="How_to_Scan_Images">
+          <in>HowToScanImages.cpp</in>
+        </df>
+        <df name="Mat_The_Basic_Image_Container">
           <in>MatTheBasicImageContainer.cpp</in>
         </df>
       </df>
@@ -56,8 +59,6 @@
       </nativedebugger>
       <runprofile version="9">
         <runcommandpicklist>
-          <runcommandpicklistitem>cp DisplayImage /home/fzeng/build </runcommandpicklistitem>
-          <runcommandpicklistitem>cp DisplayImage /home/fzeng/build;chmod 755 /home/fzeng/build/DisplayImage;/home/fzeng/build/DisplayImage</runcommandpicklistitem>
           <runcommandpicklistitem>cp DisplayImage /home/fzeng/build&amp;&amp;chmod 755 /home/fzeng/build/DisplayImage&amp;&amp;/home/fzeng/build/DisplayImage</runcommandpicklistitem>
           <runcommandpicklistitem>cp DisplayImage /home/fzeng/build</runcommandpicklistitem>
           <runcommandpicklistitem>cp DisplayImage /home/fzeng/build;\
@@ -68,8 +69,10 @@ chmod 755 /home/fzeng/build/DisplayImage</runcommandpicklistitem>
           <runcommandpicklistitem>cp DisplayImage /home/fzeng/build&amp;&amp;/home/fzeng/build/DisplayImage</runcommandpicklistitem>
           <runcommandpicklistitem>../run.sh</runcommandpicklistitem>
           <runcommandpicklistitem>./run.sh</runcommandpicklistitem>
+          <runcommandpicklistitem>./run.sh HappyFish.jpg 10</runcommandpicklistitem>
+          <runcommandpicklistitem>./run.sh HowToScanImages.exe HappyFish.jpg 10</runcommandpicklistitem>
         </runcommandpicklist>
-        <runcommand>./run.sh</runcommand>
+        <runcommand>./run.sh HowToScanImages.exe HappyFish.jpg 10</runcommand>
         <rundir>/home/fzeng/build</rundir>
         <buildfirst>true</buildfirst>
         <terminal-type>0</terminal-type>
