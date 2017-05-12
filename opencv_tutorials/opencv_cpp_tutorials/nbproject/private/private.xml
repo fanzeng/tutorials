@@ -10,9 +10,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/media/fzeng/DATA/PycharmProjects/Practice/opencv_tutorials/opencv_cpp_tutorials/src/Introduction_to_OpenCV/Load_and_Display_an_Image/DisplayImage.cpp</file>
-            <file>file:/media/fzeng/DATA/PycharmProjects/Practice/opencv_tutorials/opencv_cpp_tutorials/src/Introduction_to_OpenCV/Load_and_Display_an_Image/LoadModifyDisplayImage.cpp</file>
             <file>file:/media/fzeng/DATA/PycharmProjects/Practice/opencv_tutorials/opencv_cpp_tutorials/CMakeLists.txt</file>
+            <file>file:/media/fzeng/DATA/PycharmProjects/Practice/opencv_tutorials/opencv_cpp_tutorials/src/The_Core_Functionality/How_to_Scan_Images/HowToScanImages.cpp</file>
         </group>
     </open-files>
 </project-private>
