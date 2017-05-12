@@ -1,7 +1,6 @@
-cmake_minimum_required(VERSION 2.8)
-project(DisplayImage)
-find_package(OpenCV REQUIRED)
-include_directories(${OpenCV_INCLUDE_DIRS})
-
-add_executable(DisplayImage src/Introduction_to_OpenCV/Load_and_Display_an_Image/LoadModifyDisplayImage.cpp)
-target_link_libraries(DisplayImage ${OpenCV_LIBS})
+add_executable(DisplayImage.exe DisplayImage.cpp)
+target_link_libraries(DisplayImage.exe ${OpenCV_LIBS})
+set_target_properties(DisplayImage.exe
+    PROPERTIES
+    RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin"
+)
