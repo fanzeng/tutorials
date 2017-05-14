@@ -1,4 +1,5 @@
-./idea
+./.idea
+./opencv_tutorials/opencv_cpp_tutorials/nbproject
 ./opencv_tutorials/samples
 ./2601Crawler/html
-/opencv_tutorials/opencv_cpp_tutorials/build/
+./opencv_tutorials/opencv_cpp_tutorials/build
