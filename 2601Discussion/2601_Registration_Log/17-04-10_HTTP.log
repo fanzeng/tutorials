@@ -1,0 +1,2527 @@
+Mon, 10 Apr 2017 09:53:01 +0800: 1155072741:$_POST
+Array
+(
+    [SID] => 1155072741
+    [FirstName] => 'ZIYUE'
+    [LastName] => 'LIU'
+    [Phone] => 979354
+    [SubmitBtn] => 'New/Modify Registration'
+)
+
+Mon, 10 Apr 2017 09:53:01 +0800: 1155072741:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 65180
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.240.235
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-cn
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/601.5.17 (KHTML, like Gecko) Version/9.1 Safari/601.5.17
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [CONTENT_LENGTH] => 92
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOrlfbmwKz0AADjyq2UAAAAh
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491789181.42
+    [REQUEST_TIME] => 1491789181
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 09:53:29 +0800: 1155072741:$_POST
+Array
+(
+    [SID] => 1155072741
+    [FirstName] => 'ZIYUE'
+    [LastName] => 'LIU'
+    [Phone] => 97935405
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 09:53:29 +0800: 1155072741:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 19422
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.240.235
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-cn
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/601.5.17 (KHTML, like Gecko) Version/9.1 Safari/601.5.17
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_CONNECTION] => close
+    [CONTENT_LENGTH] => 89
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOrlkrmwKz0AADVgLB4AAAAZ
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491789209.02
+    [REQUEST_TIME] => 1491789209
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 14:26:10 +0800: 1155078794:$_POST
+Array
+(
+    [SID] => 1155078794
+    [FirstName] => ''
+    [LastName] => 'CHENG'
+    [Phone] => 91841312
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 14:26:10 +0800: 1155078794:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 48564
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.240.172
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,zh-TW;q=0.6,zh;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 86
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOslcLmwKz0AADhfWTIAAAAK
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491805570.66
+    [REQUEST_TIME] => 1491805570
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 14:26:54 +0800: 1155078794:$_POST
+Array
+(
+    [SID] => 1155078794
+    [FirstName] => 'CHING HEI'
+    [LastName] => 'CHENG'
+    [Phone] => 91841312
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 14:26:54 +0800: 1155078794:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 40856
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.240.172
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,zh-TW;q=0.6,zh;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 95
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOslrbmwKz0AAD5SETgAAABR
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491805614.22
+    [REQUEST_TIME] => 1491805614
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 14:30:34 +0800: 1155079917:$_POST
+Array
+(
+    [SID] => 1155079917
+    [FirstName] => 'Chi Sang'
+    [LastName] => 'TONG'
+    [Phone] => 61739952
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 14:30:34 +0800: 1155079917:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 43109
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.240.172
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8,zh-TW;q=0.6,zh;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 93
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOsmirmwKz0AAD4bCUYAAABH
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491805834.47
+    [REQUEST_TIME] => 1491805834
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 14:39:33 +0800: 1155081393:$_POST
+Array
+(
+    [SID] => 1155081393
+    [FirstName] => 'Kwok Wai'
+    [LastName] => 'Lai'
+    [DiscussionSess] => 15
+    [Phone] => 62184601
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 14:39:33 +0800: 1155081393:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 41315
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.19
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 110
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOsoormwKz0AAESnKSsAAAAB
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491806373.27
+    [REQUEST_TIME] => 1491806373
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 14:40:39 +0800: 1155081393:$_POST
+Array
+(
+    [SID] => 1155081393
+    [FirstName] => 'Kwok Wai'
+    [LastName] => 'Lai'
+    [DiscussionSess] => 15
+    [Phone] => 62184601
+    [SubmitBtn] => 'New/Modify Registration'
+)
+
+Mon, 10 Apr 2017 14:40:39 +0800: 1155081393:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 14997
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.19
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 115
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOso27mwKz0AAEJrbT8AAAAG
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491806439.63
+    [REQUEST_TIME] => 1491806439
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 14:41:34 +0800: 1155081393:$_POST
+Array
+(
+    [SID] => 1155081393
+    [FirstName] => 'Kwok Wai'
+    [LastName] => 'Lai'
+    [DiscussionSess] => 15
+    [Phone] => 62184601
+    [SubmitBtn] => 'New/Modify Registration'
+)
+
+Mon, 10 Apr 2017 14:41:34 +0800: 1155081393:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 48830
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.19
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 115
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOspFrmwKz0AADjOYMMAAAAm
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491806494.26
+    [REQUEST_TIME] => 1491806494
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 14:42:18 +0800: 1155081393:$_POST
+Array
+(
+    [SID] => 1155081393
+    [FirstName] => 'Kwok Wai'
+    [LastName] => 'Lai'
+    [Phone] => 62184601
+    [SubmitBtn] => 'New/Modify Registration'
+)
+
+Mon, 10 Apr 2017 14:42:18 +0800: 1155081393:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 47836
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.19
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 97
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOspMrmwKz0AAEJqbO8AAAAF
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491806538.75
+    [REQUEST_TIME] => 1491806538
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 14:42:25 +0800: 1155081393:$_POST
+Array
+(
+    [SID] => 1155081393
+    [FirstName] => 'Kwok Wai'
+    [LastName] => 'LAI'
+    [DiscussionSess] => 15
+    [Phone] => 62184601
+    [SubmitBtn] => 'New/Modify Registration'
+)
+
+Mon, 10 Apr 2017 14:42:25 +0800: 1155081393:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 64451
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.19
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 115
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOspUbmwKz0AAFX2VzEAAAAA
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491806545.71
+    [REQUEST_TIME] => 1491806545
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 14:43:24 +0800: 1155081393:$_POST
+Array
+(
+    [SID] => 1155081393
+    [FirstName] => 'Kwok Wai'
+    [LastName] => 'LAI'
+    [Phone] => 62184601
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 14:43:24 +0800: 1155081393:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 50104
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.19
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 92
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOspb7mwKz0AAEJqbPYAAAAF
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491806604.74
+    [REQUEST_TIME] => 1491806604
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 14:43:40 +0800: 1155078828:$_POST
+Array
+(
+    [SID] => 1155078828
+    [FirstName] => 'HIU LEUNG'
+    [LastName] => 'WONG'
+    [Phone] => 66766314
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 14:43:40 +0800: 1155078828:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 9575
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.128
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 94
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOspnLmwKz0AACs5XL0AAABW
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491806620.45
+    [REQUEST_TIME] => 1491806620
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 14:43:57 +0800: 1155078828:$_POST
+Array
+(
+    [SID] => 1155078828
+    [FirstName] => 'Hiu Leung'
+    [LastName] => 'WONG'
+    [Phone] => 66766314
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 14:43:57 +0800: 1155078828:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 35705
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.128
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 94
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOsprbmwKz0AAFMyEngAAAAe
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491806637.36
+    [REQUEST_TIME] => 1491806637
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 17:10:15 +0800: 1155079122:$_POST
+Array
+(
+    [SID] => 1155079122
+    [FirstName] => 'Tsz Kit'
+    [LastName] => 'NGAN'
+    [Phone] => 63700368
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 17:10:15 +0800: 1155079122:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 39200
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.240.77
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4,zh-CN;q=0.2
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 92
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtL9bmwKz0AAEZdkXEAAAAT
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491815415.42
+    [REQUEST_TIME] => 1491815415
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 17:10:16 +0800: 1155079122:$_POST
+Array
+(
+    [SID] => 1155079122
+    [FirstName] => 'Tsz Kit'
+    [LastName] => 'NGAN'
+    [Phone] => 63700368
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 17:10:16 +0800: 1155079122:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 40017
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.240.77
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4,zh-CN;q=0.2
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 92
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtL97mwKz0AADA@DvAAAAAa
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491815416.43
+    [REQUEST_TIME] => 1491815416
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 17:45:49 +0800: 1155079598:$_POST
+Array
+(
+    [SID] => 1155079598
+    [FirstName] => 'Kai Lim'
+    [LastName] => 'Wu'
+    [DiscussionSess] => 9
+    [Phone] => 97899093
+    [SubmitBtn] => 'New/Modify Registration'
+)
+
+Mon, 10 Apr 2017 17:45:49 +0800: 1155079598:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 64202
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.111
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 112
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtUSbmwKz0AAHYzImAAAAAf
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491817549.19
+    [REQUEST_TIME] => 1491817549
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 17:47:06 +0800: 1155079598:$_POST
+Array
+(
+    [SID] => 1155079598
+    [FirstName] => 'Kai Lim'
+    [LastName] => 'Wu'
+    [DiscussionSess] => 9
+    [Phone] => 97899093
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 17:47:06 +0800: 1155079598:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 9358
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.111
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 107
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtUa7mwKz0AAFzeZ-oAAAAR
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491817626.12
+    [REQUEST_TIME] => 1491817626
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 17:47:07 +0800: 1155079598:$_POST
+Array
+(
+    [SID] => 1155079598
+    [FirstName] => 'Kai Lim'
+    [LastName] => 'Wu'
+    [DiscussionSess] => 9
+    [Phone] => 97899093
+    [SubmitBtn] => 'New/Modify Registration'
+)
+
+Mon, 10 Apr 2017 17:47:07 +0800: 1155079598:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 59482
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.111
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 112
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtUebmwKz0AAHOIQRsAAABz
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491817626.96
+    [REQUEST_TIME] => 1491817626
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 17:47:31 +0800: 1155079598:$_POST
+Array
+(
+    [SID] => 1155079598
+    [FirstName] => 'Kai Lim'
+    [LastName] => 'WU'
+    [DiscussionSess] => 9
+    [Phone] => 97899093
+    [SubmitBtn] => 'New/Modify Registration'
+)
+
+Mon, 10 Apr 2017 17:47:31 +0800: 1155079598:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 10020
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.111
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 112
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtUs7mwKz0AAHODQSkAAABj
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491817651.24
+    [REQUEST_TIME] => 1491817651
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 17:50:35 +0800: 1155079598:$_POST
+Array
+(
+    [SID] => 1155079598
+    [FirstName] => 'Kai Lim'
+    [LastName] => 'WU'
+    [Phone] => 97899093
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 17:50:35 +0800: 1155079598:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 17591
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.111
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 90
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtVZLmwKz0AAGzqG2kAAABr
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491817835.42
+    [REQUEST_TIME] => 1491817835
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 17:53:20 +0800: 1155078926:$_POST
+Array
+(
+    [SID] => 1155078926
+    [FirstName] => 'Shu Wa'
+    [LastName] => 'KONG'
+    [Phone] => 56673131
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 17:53:20 +0800: 1155078926:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 49402
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.94.205
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4,zh-CN;q=0.2,ja;q=0.2,fr;q=0.2
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 91
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtWCLmwKz0AAH2c3vIAAAAi
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491818000.17
+    [REQUEST_TIME] => 1491818000
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 17:57:44 +0800: 1155076691:$_POST
+Array
+(
+    [SID] => 1155076691
+    [FirstName] => 'Felix Yun Fei'
+    [LastName] => 'YUE'
+    [Phone] => 68096958
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 17:57:44 +0800: 1155076691:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 9872
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.196
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.8
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 97
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtXELmwKz0AAAkAaYoAAAAP
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491818264.27
+    [REQUEST_TIME] => 1491818264
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 18:01:24 +0800: 1155078237:$_POST
+Array
+(
+    [SID] => 1155078237
+    [FirstName] => 'Ho Wang'
+    [LastName] => 'HO'
+    [Phone] => 62200019
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 18:01:24 +0800: 1155078237:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 24368
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.241.119
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 90
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtXt7mwKz0AAA3C4jkAAAAR
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491818484.19
+    [REQUEST_TIME] => 1491818484
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 18:01:24 +0800: 1155078237:$_POST
+Array
+(
+    [SID] => 1155078237
+    [FirstName] => 'Ho Wang'
+    [LastName] => 'HO'
+    [Phone] => 62200019
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 18:01:24 +0800: 1155078237:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 63501
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.241.119
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 90
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtX6bmwKz0AABEkR-AAAAAb
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491818484.34
+    [REQUEST_TIME] => 1491818484
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 18:01:25 +0800: 1155079790:$_POST
+Array
+(
+    [SID] => 1155079790
+    [FirstName] => 'Ka Leung'
+    [LastName] => 'LO'
+    [Phone] => 54838283
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 18:01:25 +0800: 1155079790:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 63886
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 124.244.212.170
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4,zh-CN;q=0.2
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 91
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtXt7mwKz0AAA7SC8IAAABL
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491818484.97
+    [REQUEST_TIME] => 1491818484
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 18:01:25 +0800: 1155078237:$_POST
+Array
+(
+    [SID] => 1155078237
+    [FirstName] => 'Ho Wang'
+    [LastName] => 'HO'
+    [Phone] => 62200019
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 18:01:25 +0800: 1155078237:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 37767
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.241.119
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 90
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtX7bmwKz0AABE6SfcAAABB
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491818484.99
+    [REQUEST_TIME] => 1491818484
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 18:02:08 +0800: 1155078237:$_POST
+Array
+(
+    [SID] => 1155078237
+    [FirstName] => 'Ho Wang'
+    [LastName] => 'HO'
+    [Phone] => 62200019
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 18:02:08 +0800: 1155078237:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 55525
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.241.119
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 90
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtYDbmwKz0AAALeSKYAAAAh
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491818528.83
+    [REQUEST_TIME] => 1491818528
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 19:29:02 +0800: 1155079811:$_POST
+Array
+(
+    [SID] => 1155079811
+    [FirstName] => 'Chi Man'
+    [LastName] => 'CHU'
+    [Phone] => 61517021
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 19:29:02 +0800: 1155079811:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 52393
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 14.198.174.152
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 91
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtsebmwKz0AAH4yCE4AAAAl
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491823742.18
+    [REQUEST_TIME] => 1491823742
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 19:29:02 +0800: 1155079811:$_POST
+Array
+(
+    [SID] => 1155079811
+    [FirstName] => 'Chi Man'
+    [LastName] => 'CHU'
+    [Phone] => 61517021
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 19:29:02 +0800: 1155079811:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 52394
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 14.198.174.152
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 91
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOtse7mwKz0AAA5LEFAAAABQ
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491823742.76
+    [REQUEST_TIME] => 1491823742
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 20:17:48 +0800: 1155079784:$_POST
+Array
+(
+    [SID] => 1155079784
+    [FirstName] => ''
+    [LastName] => 'Siu'
+    [Phone] => 59889741
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 20:17:48 +0800: 1155079784:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 52901
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.50
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 84
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOt357mwKz0AAE77eaQAAAAr
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491826668.37
+    [REQUEST_TIME] => 1491826668
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 20:18:54 +0800: 1155079784:$_POST
+Array
+(
+    [SID] => 1155079784
+    [FirstName] => 'King Hang'
+    [LastName] => 'SIU'
+    [Phone] => 59889741
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 20:18:54 +0800: 1155079784:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 26028
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.50
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 93
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 10_2 like Mac OS X) AppleWebKit/602.3.12 (KHTML, like Gecko) Version/10.0 Mobile/14C92 Safari/602.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOt4DrmwKz0AAEXjinMAAABP
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491826734.86
+    [REQUEST_TIME] => 1491826734
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 20:47:21 +0800: 1155072413:$_POST
+Array
+(
+    [SID] => 1155072413
+    [FirstName] => 'Wee Shen'
+    [LastName] => 'Ng'
+    [Phone] => 65886352
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 20:47:21 +0800: 1155072413:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 54542
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.233.1
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => en-HK,en-GB;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_DNT] => 1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 91
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOt@z7mwKz0AAA4dERoAAAA4
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491828441.43
+    [REQUEST_TIME] => 1491828441
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 20:47:21 +0800: 1155072413:$_POST
+Array
+(
+    [SID] => 1155072413
+    [FirstName] => 'Wee Shen'
+    [LastName] => 'Ng'
+    [Phone] => 65886352
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 20:47:21 +0800: 1155072413:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 54543
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.233.1
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => en-HK,en-GB;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_DNT] => 1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 91
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOt@1bmwKz0AAA4@FmUAAABK
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491828441.46
+    [REQUEST_TIME] => 1491828441
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 20:47:35 +0800: 1155072413:$_POST
+Array
+(
+    [SID] => 1155072413
+    [FirstName] => 'Wee Shen'
+    [LastName] => 'NG'
+    [Phone] => 65886352
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 20:47:35 +0800: 1155072413:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 54550
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.233.1
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => en-HK,en-GB;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_DNT] => 1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 91
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOt@5rmwKz0AABB1Q3sAAAAc
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491828454.98
+    [REQUEST_TIME] => 1491828454
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 20:57:01 +0800: 1155077718:$_POST
+Array
+(
+    [SID] => 1155077718
+    [FirstName] => 'Kin Hang'
+    [LastName] => 'HUI'
+    [Phone] => 98478566
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 20:57:01 +0800: 1155077718:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 50097
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.236.1
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 92
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOuBHbmwKz0AABize84AAABC
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491829021.49
+    [REQUEST_TIME] => 1491829021
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 21:20:43 +0800: 1155079732:$_POST
+Array
+(
+    [SID] => 1155079732
+    [FirstName] => 'Kang Chiu'
+    [LastName] => 'NG'
+    [Phone] => 54961404
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 21:20:43 +0800: 1155079732:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 42830
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.182
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_CACHE_CONTROL] => no-cache
+    [HTTP_CONNECTION] => close
+    [CONTENT_LENGTH] => 92
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+    [HTTP_ACCEPT_LANGUAGE] => zh-Hant-HK,zh-Hant;q=0.8,zh-Hans-CN;q=0.5,zh-Hans;q=0.3
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html, application/xhtml+xml, image/jxr, */*
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOuGq7mwKz0AAEdwVGMAAAA5
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491830443.04
+    [REQUEST_TIME] => 1491830443
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 21:22:51 +0800: 1155070214:$_POST
+Array
+(
+    [SID] => 1155070214
+    [FirstName] => 'Chung Pan'
+    [LastName] => 'CHAN'
+    [Phone] => 63517562
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 21:22:51 +0800: 1155070214:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 2323
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 137.189.232.1
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 94
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOuHK7mwKz0AAEzuViEAAABL
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491830571.03
+    [REQUEST_TIME] => 1491830571
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 22:10:23 +0800: 1155079396:$_POST
+Array
+(
+    [SID] => 1155079396
+    [FirstName] => 'Kwok Chiu'
+    [LastName] => 'CHEUNG'
+    [Phone] => 60915804
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 22:10:23 +0800: 1155079396:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 59827
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 219.78.78.253
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [CONTENT_LENGTH] => 96
+    [HTTP_DNT] => 1
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.1 Safari/603.1.30
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOuSSbmwKz0AABQkyTkAAAAM
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491833423.32
+    [REQUEST_TIME] => 1491833423
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 22:58:40 +0800: 1155079003:$_POST
+Array
+(
+    [SID] => 1155079003
+    [FirstName] => 'Ka Chun'
+    [LastName] => 'YIP'
+    [Phone] => 51189737
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 22:58:40 +0800: 1155079003:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 10306
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 123.255.103.242
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [CONTENT_LENGTH] => 91
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Safari/602.1
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOudoLmwKz0AAGmNekMAAAAh
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491836320.37
+    [REQUEST_TIME] => 1491836320
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 23:15:44 +0800: 1155078887:$_POST
+Array
+(
+    [SID] => 1155078887
+    [FirstName] => 'Lok San Winson'
+    [LastName] => 'CHEUNG'
+    [Phone] => 68163791
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 23:15:44 +0800: 1155078887:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 62390
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 210.6.145.89
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [HTTP_ACCEPT_LANGUAGE] => zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [CONTENT_LENGTH] => 101
+    [HTTP_CONNECTION] => close
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOuhjLmwKz0AAFtdrmIAAAAB
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491837343.99
+    [REQUEST_TIME] => 1491837343
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 23:28:04 +0800: 1155079592:$_POST
+Array
+(
+    [SID] => 1155079592
+    [FirstName] => 'Kai Yiu'
+    [LastName] => 'FONG'
+    [Phone] => 67505331
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 23:28:04 +0800: 1155079592:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 51243
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 119.246.65.223
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [CONTENT_LENGTH] => 92
+    [HTTP_DNT] => 1
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Safari/602.1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOukg7mwKz0AAB50boUAAAAo
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491838084.34
+    [REQUEST_TIME] => 1491838084
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 23:28:04 +0800: 1155079592:$_POST
+Array
+(
+    [SID] => 1155079592
+    [FirstName] => 'Kai Yiu'
+    [LastName] => 'FONG'
+    [Phone] => 67505331
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 23:28:04 +0800: 1155079592:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 51242
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 119.246.65.223
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [CONTENT_LENGTH] => 92
+    [HTTP_DNT] => 1
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_USER_AGENT] => Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Version/10.0 Mobile/14D27 Safari/602.1
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOukermwKz0AAB4dZOsAAAAe
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491838084.4
+    [REQUEST_TIME] => 1491838084
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+Mon, 10 Apr 2017 23:46:10 +0800: 1155078664:$_POST
+Array
+(
+    [SID] => 1155078664
+    [FirstName] => 'Tsz Ho'
+    [LastName] => 'CHEUNG'
+    [Phone] => 90819096
+    [CheckBtn] => 'Check My Registration'
+)
+
+Mon, 10 Apr 2017 23:46:10 +0800: 1155078664:$_SERVER
+Array
+(
+    [PATH] => /usr/local/bin:/usr/bin:/bin
+    [PHP_FCGI_MAX_REQUESTS] => 10000
+    [PHP_FCGI_CHILDREN] => 0
+    [HTTP_HOST] => commonz.co.nf
+    [SCRIPT_FILENAME] => /home/www/commonz.co.nf/2601/newReg.php
+    [DOCUMENT_ROOT] => /home/domains
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [SCRIPT_NAME] => /2601/newReg.php
+    [REQUEST_URI] => /2601/newReg.php
+    [QUERY_STRING] => 
+    [REQUEST_METHOD] => POST
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [REMOTE_PORT] => 64405
+    [SERVER_ADMIN] => [no address given]
+    [REMOTE_ADDR] => 124.244.77.213
+    [SERVER_PORT] => 80
+    [SERVER_ADDR] => 185.176.43.61
+    [SERVER_NAME] => commonz.co.nf
+    [SERVER_SOFTWARE] => Apache
+    [SERVER_SIGNATURE] => 
+    [CONTENT_LENGTH] => 93
+    [HTTP_DNT] => 1
+    [HTTP_REFERER] => http://commonz.co.nf/2601/newReg.php
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_CONNECTION] => close
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+    [HTTP_ORIGIN] => http://commonz.co.nf
+    [CONTENT_TYPE] => application/x-www-form-urlencoded
+    [HTTP_ACCEPT_LANGUAGE] => zh-tw
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [SCRIPT_URI] => http://commonz.co.nf/2601/newReg.php
+    [SCRIPT_URL] => /2601/newReg.php
+    [env_vhost] => commonz.co.nf
+    [UNIQUE_ID] => WOuowrmwKz0AAD4IkqoAAAAa
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /2601/newReg.php
+    [REQUEST_TIME_FLOAT] => 1491839170.59
+    [REQUEST_TIME] => 1491839170
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
