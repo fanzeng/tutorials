@@ -1,0 +1,78 @@
+body {
+    background-color: #ccccff;
+    color: #003300;
+}
+
+th {
+    background-color: #003366;
+    color: #ffffff;
+    font: 700 18px Helvetica,Arial;
+}
+
+tr {
+    background-color: #006600;
+    color: #e7e7e7;
+    font: 700 16px Helvetica,Arial;
+}
+
+
+.button {
+    background: #e7e7e7;
+    border: 1px solid;
+    border-radius: 3px;
+    font: 700 20px Helvetica,Arial;
+    height: 30px;
+    line-height: 28px;
+    padding: 0 20px;
+    text-align: center;
+    margin-right: 10px;
+    box-sizing: border-box;
+}
+
+.row {
+    display: table-row;
+}
+ 
+
+#theForm {
+    display: table;
+    padding: 3px;
+}
+
+.row label {
+    font: 700 20px Helvetica,Arial;
+    display: table-cell;
+    padding: 2px;
+    text-align:right;
+ 
+}
+ 
+
+.row input {
+display: table-cell;
+padding: 2px;
+}
+
+span.eg {
+    color: firebrick;
+    font-weight: bold;
+}
+
+span.remain {
+    color: gold;
+    font-weight: bold;
+}
+
+input[type = "Submit"]:hover {
+    background-color: #006600;
+    color: #e7e7e7;    
+}
+
+td:hover{
+    background-color: #006600;
+    color: #ffffff;
+}
+
+input[type="Radio"][disabled] {
+    opacity: 0.2;
+}
