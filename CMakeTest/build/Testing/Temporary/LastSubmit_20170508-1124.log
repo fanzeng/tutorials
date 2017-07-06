@@ -1,9 +1,0 @@
-Upload files:
-0	Build.xml
-1	Configure.xml
-2	Test.xml
-Using drop method: http
-	Upload file: /home/fzeng/CMakeTest/build/Testing/20170508-1124/Build.xml to fzeng-OptiPlex-9010___Linux-c++___20170508-1124-Experimental___XML___Build.xml
-   Error when uploading file: /home/fzeng/CMakeTest/build/Testing/20170508-1124/Build.xml
-   Error message was: Could not resolve host: http
-   Problems when submitting via HTTP
