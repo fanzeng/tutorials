@@ -8,7 +8,6 @@ find_package(OpenCV REQUIRED)
 include_directories(${OpenCV_INCLUDE_DIRS})
 
 
-
 # add_subdirectory(src/Introduction_to_OpenCV/Load_and_Display_an_Image)
 # add_subdirectory(src/Introduction_to_OpenCV/Load_and_Display_a_Video)
 # add_subdirectory(src/The_Core_Functionality/Mat_The_Basic_Image_Container)
