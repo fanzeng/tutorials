@@ -6,5 +6,5 @@ CMakeTest/build/
 web_dev/2601Crawler/html/*
 web_dev/2601Discussion/signUp/courseFiles/*
 web_dev/2601Discussion/signUp/nbproject/*
-
-
+algorithms/**
+algorithms/nbproject/private/private.xml
