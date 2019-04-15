@@ -2,7 +2,4 @@
 opencv_tutorials/opencv_cpp_tutorials/nbproject
 opencv_tutorials/opencv_cpp_tutorials/build
 opencv_tutorials/samples
-CMakeTest/build/
-web_dev/2601Crawler/html/*
-web_dev/2601Discussion/signUp/courseFiles/*
-web_dev/2601Discussion/signUp/nbproject/*
+CMake_tutorials/build
