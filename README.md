@@ -1,2 +1,2 @@
-# Practice
-A Repository that contains miscellaneous programming practice codes
+# Tutorials
+A Repository that contains miscellaneous tutorials that I've followed through
