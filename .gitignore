@@ -3,3 +3,4 @@ opencv_tutorials/opencv_cpp_tutorials/nbproject
 opencv_tutorials/opencv_cpp_tutorials/build
 opencv_tutorials/samples
 cmake_tutorials/build
+**/build
