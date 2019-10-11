@@ -1,6 +1,5 @@
-.idea/
-opencv_tutorials/opencv_cpp_tutorials/nbproject
-opencv_tutorials/opencv_cpp_tutorials/build
+**/.idea
+**/.vscode
 opencv_tutorials/samples
-cmake_tutorials/build
 **/build
+
