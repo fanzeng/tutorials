@@ -8,7 +8,7 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-    string imageName("/media/fzeng/DATA/PycharmProjects/Practice/opencv_tutorials/samples/HappyFish.jpg"); // default image;
+    string imageName("../../../samples/HappyFish.jpg"); // default image;
     if (argc > 1)
     {
         imageName = argv[1];

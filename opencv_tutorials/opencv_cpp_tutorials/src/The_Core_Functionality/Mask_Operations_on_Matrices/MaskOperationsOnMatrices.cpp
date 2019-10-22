@@ -26,7 +26,7 @@ void Sharpen(const cv::Mat& myImage, cv::Mat& Result)
 }
 int main(int argc, char** argv)
 {
-    cv::Mat img = cv::imread("/home/fzeng/build/HappyFish.jpg");
+    cv::Mat img = cv::imread("../../../samples/HappyFish.jpg");
     cv::Mat Result;
     Sharpen(img, Result);
     cv::namedWindow("Sharpen", cv::WINDOW_AUTOSIZE);

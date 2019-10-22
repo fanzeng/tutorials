@@ -1,0 +1,23 @@
+cmake_minimum_required(VERSION 2.8)
+project(opencv_cpp_tutorials)
+
+find_package(OpenCV REQUIRED)
+if(OpenCV_FOUND)
+   message("Found OpenCV")
+   message("OpenCV_INCLUDE_DIRS=" ${OpenCV_INCLUDE_DIRS})
+   message("OpenCV_DIR=" ${OpenCV_DIR})
+endif(OpenCV_FOUND)
+
+include_directories(${OpenCV_INCLUDE_DIRS})
+
+add_subdirectory(Introduction_to_OpenCV/Load_and_Display_an_Image)
+add_subdirectory(Introduction_to_OpenCV/Load_and_Display_a_Video)
+add_subdirectory(The_Core_Functionality/Mat_The_Basic_Image_Container)
+add_subdirectory(The_Core_Functionality/How_to_Scan_Images)
+add_subdirectory(The_Core_Functionality/Operations_with_Images)
+add_subdirectory(The_Core_Functionality/Mask_Operations_on_Matrices)
+add_subdirectory(The_Core_Functionality/Contrast_and_Brightness)
+add_subdirectory(The_Core_Functionality/Basic_Drawing)
+add_subdirectory(The_Core_Functionality/Random_and_Text)
+add_subdirectory(The_Core_Functionality/Discrete_Fourier_Transform)
+add_subdirectory(2D_Features_Framework/Feature_Matching_with_FLANN)
