@@ -5,13 +5,14 @@
 #include "opencv2/imgproc.hpp"
 #include "opencv2/videoio.hpp"
 #include "opencv2/highgui.hpp"
+
 int main(int argc, char **argv)
 {
     // Open camera with CAMERA_INDEX (webcam is typically #0).
     const int CAMERA_INDEX = 0;
  
     // cv::VideoCapture capture(CAMERA_INDEX);
-    std::string filename = "/media/fzeng/Data/Codes/PycharmProjects/Practice/opencv_tutorials/samples/768x576.avi";
+    std::string filename = "../../../samples/768x576.avi";
     cv::VideoCapture capture(filename);
  
     if(not capture.isOpened())
