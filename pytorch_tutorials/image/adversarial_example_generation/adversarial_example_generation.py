@@ -129,9 +129,7 @@ def test_attack(model, device, test_loader, eps):
         init_pred = output.max(1, keepdim=True)[1]
 
         if init_pred.item() != target.item():
-            pass
-            # print init_pred.item(), target.item()
-            # continue
+            continue
         loss = F.nll_loss(output, target)
         model.zero_grad()
 
