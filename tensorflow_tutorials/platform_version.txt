@@ -1,0 +1,5 @@
+linux=Ubuntu 18.04 bionic
+python=2.7.17
+tensorflow=2.1.0
+cuda=release 10.1, V10.1.243
+cudnn=7.6.5
