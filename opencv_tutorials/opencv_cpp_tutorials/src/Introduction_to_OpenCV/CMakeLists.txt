@@ -1,0 +1,4 @@
+add_subdirectory(Load_and_Display_an_Image)
+add_subdirectory(Load_and_Display_a_Video)
+#add_subdirectory(Load_Modify_and_Save_and_Image)
+#add_subdirectory(Using_OpenCV_with_gcc_and_CMake)

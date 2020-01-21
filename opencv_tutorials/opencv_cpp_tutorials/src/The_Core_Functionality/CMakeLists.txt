@@ -1,0 +1,8 @@
+add_subdirectory(Mat_The_Basic_Image_Container)
+add_subdirectory(How_to_Scan_Images)
+add_subdirectory(Operations_with_Images)
+add_subdirectory(Mask_Operations_on_Matrices)
+add_subdirectory(Contrast_and_Brightness)
+add_subdirectory(Basic_Drawing)
+add_subdirectory(Random_and_Text)
+add_subdirectory(Discrete_Fourier_Transform)

@@ -8,6 +8,12 @@ cv::Mat& ScanImageAndReduceRandomAccess(cv::Mat& I, const uchar * table);
 
 int main(int argc, char** argv)
 {
+    if (argc < 3) {
+        std::cout << "usage: HowToScanImages [path_to_image] [int_reduction_ratio] [G]" << std::endl;
+        std::cout << "no modifications to the original image will be made." 
+                " result will be saved in ./reduced.jpg." << std::endl;
+        return 0;
+    }
     int divideWith = 0; //convert our input string to number - C++ style
     stringstream s;
     s << argv[2];

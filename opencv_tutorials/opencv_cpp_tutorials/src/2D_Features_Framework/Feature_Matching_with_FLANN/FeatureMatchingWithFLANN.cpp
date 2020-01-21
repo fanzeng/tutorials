@@ -9,6 +9,11 @@
 using namespace std;
 
 int main(int argc, char** argv) {
+    if (argc != 3) {
+        std::cout << "usage: FeatureMatchingWithFLANN [path_to_image_0]"
+                " [path_to_image_1] "<< std::endl;
+    }
+
     cv::Mat img_1 = cv::imread(argv[1], cv::IMREAD_GRAYSCALE);
     cv::Mat img_2 = cv::imread(argv[2], cv::IMREAD_GRAYSCALE);
     if (!img_1.data || !img_2.data) {

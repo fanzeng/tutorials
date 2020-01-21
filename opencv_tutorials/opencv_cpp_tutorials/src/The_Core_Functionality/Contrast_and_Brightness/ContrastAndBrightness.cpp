@@ -6,6 +6,13 @@ int beta;
 
 int main(int argc, char** argv)
 {
+    if (argc != 2) {
+        std::cout << "usage: ContrastAndBrightness [path_to_image]" << std::endl;
+        std::cout << "no modifications to disk files will be made." 
+                " modified images will be shown in pop-up windows." << std::endl;
+        return 0;
+    }
+    
     cv::Mat image = cv::imread(argv[1]);
     cv::Mat new_image = cv::Mat::zeros(image.size(), image.type());
     std::cout << "Basic Linear Transforms" << std::endl;
@@ -25,8 +32,6 @@ int main(int argc, char** argv)
     }
     
     cv::namedWindow("Original Image", cv::WINDOW_AUTOSIZE);
-
-    
     cv::imshow("Original Image", image);
     cv::waitKey();
     cv::namedWindow("New Image", cv::WINDOW_AUTOSIZE);

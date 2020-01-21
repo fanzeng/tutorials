@@ -2,14 +2,25 @@
 #include <opencv2/core.hpp>
 int main(int argc, char** argv)
 {
-    cv::Mat img = cv::imread("/home/fzeng/build/HappyFish.jpg", 0);
-    cv::imwrite("/home/fzeng/build/HappyFish.png", img);
+    if (argc != 3) {
+        std::cout << "usage: OperationsWithImages [path_to_image]"
+                " [path_to_save_output_image]"<< std::endl;
+        std::cout << "Example:\nOperationsWithImages samples/HappyFish.jpg ./temp_output.jpg"
+                << std::endl;
+        return 0;
+    }
+    std::string input_image_name(argv[1]);
+    std::string output_image_name(argv[2]);
+    std::cout << "input image: " << input_image_name << std::endl;
+    std::cout << "output image:" << output_image_name << std::endl;
+    cv::Mat img = cv::imread(input_image_name, 0);
+    cv::imwrite(output_image_name, img);
     cv::Scalar intensity = img.at<uchar>(3, 2);
     std::cout << "Gray: " << intensity.val[0] << std:: endl;
     intensity = img.at<uchar>(cv::Point(3, 2));
     std::cout << "Gray: " << intensity[0] << std::endl;
     
-    img = cv::imread("/home/fzeng/build/HappyFish.jpg");
+    img = cv::imread(input_image_name);
     cv::Vec3b intensity1 = img.at<cv::Vec3b>(3, 2);
     uchar blue = intensity1.val[0];
     uchar green = intensity1.val[1];
@@ -33,8 +44,10 @@ int main(int argc, char** argv)
     cv::namedWindow("smallImg", cv::WINDOW_AUTOSIZE);
     cv::imshow("smallImg", smallImg);
     cv::waitKey();
+    std::cout << "there should be a pop-up window showing a black image."
+            "press any key to continue." << std::endl;
     
-    cv::Mat img1 = cv::imread("/home/fzeng/build/HappyFish.jpg");
+    cv::Mat img1 = cv::imread(input_image_name);
     cv::Mat grey;
     cv::cvtColor(img1, grey, cv::COLOR_BGR2GRAY);
     cv::Mat sobelx;
