@@ -87,7 +87,7 @@ def plotImages(images_arr):
         ax.imshow(img)
         ax.axis('off')
     plt.tight_layout()
-    plt.show()
+    plt.show(block=False)
 
 # plotImages(sample_training_images[:5])
 plotImages(augmented_images)
@@ -142,5 +142,6 @@ plt.plot(epochs_range, loss, label='Training Loss')
 plt.plot(epochs_range, val_loss, label='Validation Loss')
 plt.legend(loc='upper right')
 plt.title('Training and Validation Loss')
-plt.show()
+plt.show(block=False)
 
+plt.close('all')

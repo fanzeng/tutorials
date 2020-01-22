@@ -33,7 +33,7 @@ for image, label in raw_train.take(2):
     plt.figure()
     plt.imshow(image)
     plt.title(metadata.features['label'].int2str(label))
-    # plt.show()
+    # plt.show(block=False)
 
 
 img_size = 160
@@ -140,7 +140,7 @@ plt.ylabel('Cross Entropy')
 plt.ylim([0,1.0])
 plt.title('Training and Validation Loss')
 plt.xlabel('epoch')
-plt.show()
+plt.show(block=False)
 
 base_model.trainable = True
 print('Number of layers in base model: ', len(base_model.layers))
@@ -192,4 +192,5 @@ plt.plot([initial_epochs-1,initial_epochs-1],
 plt.legend(loc='upper right')
 plt.title('Training and Validation Loss')
 plt.xlabel('epoch')
-plt.show()
+plt.show(block=False)
+plt.close('all')

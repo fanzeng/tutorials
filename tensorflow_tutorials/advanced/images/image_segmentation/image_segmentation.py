@@ -57,7 +57,7 @@ def display(display_list):
         plt.title(title[i])
         plt.imshow(tf.keras.preprocessing.image.array_to_img(display_list[i]))
         plt.axis('off')
-    plt.show()
+    plt.show(block=False)
 
 
 for image, mask in train.take(1):
@@ -163,6 +163,7 @@ plt.title('Training and validation loss')
 plt.xlabel('Epoch')
 plt.ylabel('Loss value')
 plt.legend()
-plt.show()
+plt.show(block=False)
 
 show_predictions(test_dataset, 3)
+plt.close('all')

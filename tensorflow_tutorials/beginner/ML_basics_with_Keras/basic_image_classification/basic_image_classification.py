@@ -24,7 +24,7 @@ plt.figure()
 plt.imshow(train_images[0])
 plt.colorbar()
 plt.grid(False)
-plt.show()
+plt.show(block=False)
 
 train_images = train_images / 255.0
 test_images = test_images / 255.0
@@ -38,7 +38,7 @@ for i in range(25):
     plt.grid(False)
     plt.imshow(train_images[i], cmap=plt.cm.binary)
     plt.xlabel(class_names[train_labels[i]])
-plt.show()
+plt.show(block=False)
 
 model = keras.Sequential([
     keras.layers.Flatten(input_shape=(28, 28)),
@@ -102,7 +102,7 @@ plt.subplot(1,2,1)
 plot_image(i, predictions[i], test_labels, test_images)
 plt.subplot(1,2,2)
 plot_value_array(i, predictions[i],  test_labels)
-plt.show()
+plt.show(block=False)
 
 i = 12
 plt.figure(figsize=(6,3))
@@ -110,7 +110,7 @@ plt.subplot(1,2,1)
 plot_image(i, predictions[i], test_labels, test_images)
 plt.subplot(1,2,2)
 plot_value_array(i, predictions[i],  test_labels)
-plt.show()
+plt.show(block=False)
 
 
 num_rows = 5
@@ -123,7 +123,7 @@ for i in range(num_images):
     plt.subplot(num_rows, 2*num_cols, 2*i+2)
     plot_value_array(i, predictions[i], test_labels)
 plt.tight_layout()
-plt.show()
+plt.show(block=False)
 
 
 img = test_images[1]
@@ -136,3 +136,5 @@ plot_value_array(1, predictions_single[0], test_labels)
 _ = plt.xticks(range(10), class_names, rotation=45)
 print('np.argmax(predictions_single[0])=', np.argmax(predictions_single[0]))
 print('test_labels[1] =',test_labels[1])
+
+plt.close('all')

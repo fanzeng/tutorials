@@ -5,6 +5,7 @@ import os
 # get platform info and save it into a file
 def log_platform_version():
     linux_version = ' '.join(platform.linux_distribution())
+    kernel_version = platform.release()
     python_version = platform.python_version()
     tensorflow_version = tf.__version__
     cuda_version = os.popen('/usr/local/cuda/bin//nvcc --version | grep -o "release.*$"').read().strip()
@@ -12,6 +13,7 @@ def log_platform_version():
     cudnn_version = '.'.join([line.split(' ')[-1].strip() for line in cudnn_version.split('\n')[:-1]])
     with open("platform_version.txt", "w") as f:
         f.write('linux=' + linux_version + '\n')
+        f.write('kernel=' + kernel_version + '\n')
         f.write('python=' + platform.python_version() + '\n')
         f.write('tensorflow=' + tensorflow_version + '\n')
         f.write('cuda=' + cuda_version + '\n')
