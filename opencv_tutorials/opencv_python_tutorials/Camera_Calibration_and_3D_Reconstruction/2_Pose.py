@@ -31,7 +31,13 @@ objp[:, :2] = np.mgrid[0:7, 0:6].T.reshape(-1, 2)
 axis = np.float32([[3, 0, 0], [0, 3, 0], [0, 0, 3]]).reshape(-1, 3) # for draw()
 axis = np.float32([[0, 0, 0], [0, 3, 0], [3, 3, 0], [3, 0, 0], [0, 0, -3], [0, 3, -3], [3, 3, -3], [3, 0, -3]]) # for drawCube()
 
-for fname in glob.glob('./samples/left*.jpg'):
+import os
+
+for fname in glob.glob('../../samples/left*.jpg'):
+    basename_no_ext = os.path.splitext(os.path.basename(fname))[0]
+    if len(basename_no_ext) < 5 or 'left' not in basename_no_ext[:4] or not basename_no_ext[4:].isdigit():
+        print 'skipping: ', fname
+        continue
     img = cv2.imread(fname)
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     ret, corners = cv2.findChessboardCorners(gray, (7, 6), None)

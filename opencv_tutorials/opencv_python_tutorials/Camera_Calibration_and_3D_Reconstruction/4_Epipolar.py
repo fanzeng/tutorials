@@ -2,14 +2,24 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
-# img1 = cv2.imread('../../samples/left.jpg', 0) # queryimage # left image
-# img2 = cv2.imread('../../samples/right.jpg', 0) # queryimage  # right image
+print 'This script might not work for some versions of opencv.'
+print 'It\'s been verified to work for opencv 3.3.1.11.'
+print 'Note: Does not work with lower versions like 3.1.0 or higher versions 4.1.2'
+print 'The main issue is that SIFT features used in the script are not free.'
+print 'And this is not a problem of the script itself or opencv.'
+print 'If you see errors below, please consider running it with a compatible opencv verion.'
+print 'Easist way is to create a virtualenv, then'
+print 'pip install opencv-contrib-python==3.3.1.11'
+print 'pip install opencv-python==3.3.1.11'
+print 'pip install matplotlib'
+print 'tested with python==2.7.17, and pip==20.0.1'
+print
 
-img1 = cv2.imread('../../samples/tsukuba_l.png', 0) # queryimage # left image
-img2 = cv2.imread('../../samples/tsukuba_r.png', 0) # queryimage  # right image
+img1 = cv2.imread('../../samples/left.jpg', 0) # queryimage # left image
+img2 = cv2.imread('../../samples/right.jpg', 0) # queryimage  # right image
 
-# img1 = cv2.imread('./left.jpg', 0) # queryimage # left image
-# img2 = cv2.imread('./right.jpg', 0) # queryimage  # right image
+print 'img1.shape =', img1.shape
+print 'img2.shape =', img2.shape
 
 sift = cv2.xfeatures2d.SIFT_create()
 

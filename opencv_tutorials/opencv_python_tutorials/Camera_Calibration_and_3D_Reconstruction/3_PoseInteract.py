@@ -4,6 +4,9 @@ import glob
 import os
 import time
 
+print 'to collect new chessboard image samples, uncomment the corresponding line in the script.'
+print 'otherwise, sample images will be used.'
+print
 
 def gather_sample():
     cap = cv2.VideoCapture(0)
@@ -114,14 +117,17 @@ def interact(grid_size):
             cap.release()
             break
 
-sample_path = './25_PoseInteract/sample/'
+sample_path = './3_PoseInteract/sample/'
 if not os.path.isdir(sample_path):
     os.makedirs(sample_path)
 
 chessboard_size = (6, 9)
+
 # print "Gathering samples (should take about 5 secs) ..."
 # gather_sample()
-print "Done.\nCalibrating ..."
+# print 'Done.'
+
+print 'Calibrating ...'
 calibrate()
 print "Done.\nStart interaction. Press 'q' to end."
 grid_size = 1.2
