@@ -46,6 +46,7 @@ def imshow(tensor, title=None):
 
 plt.figure()
 imshow(style_img, title='Style Image')
+plt.figure()
 imshow(content_img, title='Content Image')
 
 class ContentLoss(nn.Module):
