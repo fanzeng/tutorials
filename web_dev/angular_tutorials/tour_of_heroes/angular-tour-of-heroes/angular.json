@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular-tutorial": {
+    "angular-tour-of-heroes": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,12 +13,12 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/angular-tutorial",
+            "outputPath": "dist/angular-tour-of-heroes",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
-            "aot": false,
+            "aot": true,
             "assets": [
               "src/favicon.ico",
               "src/assets"
@@ -41,7 +41,6 @@
               "sourceMap": false,
               "extractCss": true,
               "namedChunks": false,
-              "aot": true,
               "extractLicenses": true,
               "vendorChunk": false,
               "buildOptimizer": true,
@@ -63,18 +62,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "angular-tutorial:build"
+            "browserTarget": "angular-tour-of-heroes:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "angular-tutorial:build:production"
+              "browserTarget": "angular-tour-of-heroes:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "angular-tutorial:build"
+            "browserTarget": "angular-tour-of-heroes:build"
           }
         },
         "test": {
@@ -111,15 +110,15 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "angular-tutorial:serve"
+            "devServerTarget": "angular-tour-of-heroes:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "angular-tutorial:serve:production"
+              "devServerTarget": "angular-tour-of-heroes:serve:production"
             }
           }
         }
       }
     }},
-  "defaultProject": "angular-tutorial"
+  "defaultProject": "angular-tour-of-heroes"
 }
