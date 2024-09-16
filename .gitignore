@@ -2,4 +2,6 @@
 **/.vscode
 opencv_tutorials/samples
 **/build
-
+.DS_Store
+**/project.xcworkspace
+xcode-tutorials/Scrumdinger/Scrumdinger.xcodeproj
